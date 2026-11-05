@@ -1,0 +1,46 @@
+body {
+    background-color:black ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 40rem;
+    margin: 40px auto;
+}
+
+
+h1 {
+color:hotpink;
+text-align: center;
+}
+
+
+form {
+    background-color: hotpink;
+    padding: 20px;
+    border-radius: 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+textarea {
+    width: 100%;
+}
+
+
+button {
+    background-color: goldenrod;
+    padding: 10px;
+    border-radius: 4px;
+    border: dotted;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(239, 129, 184);
+}
+
+#menu-text {
+    white-space: pre-line;
+    background-color: hotpink;
+    color: white;
+}
