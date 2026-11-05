@@ -43,4 +43,10 @@ button:hover {
     white-space: pre-line;
     background-color: hotpink;
     color: white;
+    text-align: center;
+}
+
+#count {
+    color: hotpink;
+    text-align: center;
 }
